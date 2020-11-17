@@ -1,0 +1,11 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing:border-box;
+	background-color:#70E6BB;
+}
+h1{
+	display:flex;
+	margin-top:20%;
+	justify-content: center;
+}
